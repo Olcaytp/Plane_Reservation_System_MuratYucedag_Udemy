@@ -1,11 +1,11 @@
 # Plane_Reservation_System_MuratYucedag_Udemy
 ## This is simple .net framework project that practicing the c# tools.
 ## At this project I used these tools:
-## Label - textBox
-## comboBox - maskedTextBox
-## button - groupBox
-## dateTimePicker
-## pictureBox 
+Label - textBox <br>
+comboBox - maskedTextBox <br>
+button - groupBox <br>
+dateTimePicker <br>
+pictureBox 
 
 <br>
   <img
